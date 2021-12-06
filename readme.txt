@@ -5,4 +5,5 @@ Git tracks changes
 Creating a new branch is quick.
 Creating a new branch from master&feature1.
 test --no-ff merge
+test ff merge
 
